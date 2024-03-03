@@ -2,6 +2,8 @@
 ## Inspired from Atesquik controls for PTP by [atesquik](https://github.com/atesquik), it's a bunch of mobile controls for GMS2
 #### (also if you're gonna use this credit me somewhere, doesn't have to be in big text but still somewhere)
 
+# Note: Make sure all sprites fed into this library have an origin of _'Middle Centre'_
+
 ## Installation
  - Import YYMPS
  - Add `obj_kenancontrols` to the first room in your game
