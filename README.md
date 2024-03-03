@@ -1,4 +1,4 @@
-# KenanControls-GMS2
+# Kenan's Controls-GMS2
 ## Inspired from Atesquik controls for PTP by [atesquik](https://github.com/atesquik), it's a bunch of mobile controls for GMS2
 
 ## Installation
