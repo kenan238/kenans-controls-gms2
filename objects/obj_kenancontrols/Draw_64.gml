@@ -1,3 +1,5 @@
+// inspired by atesquik's controls lib for PTP
+
 var _iter = new KConIterator ()
 
 var _el = undefined
