@@ -1,5 +1,6 @@
 # Kenan's Controls-GMS2
 ## Inspired from Atesquik controls for PTP by [atesquik](https://github.com/atesquik), it's a bunch of mobile controls for GMS2
+#### (also if you're gonna use this credit me somewhere, doesn't have to be in big text but still somewhere)
 
 ## Installation
  - Import YYMPS
