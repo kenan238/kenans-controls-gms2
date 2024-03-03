@@ -9,6 +9,8 @@ function kcon_add_element (_id, _el)
 	return _id
 }
 
+// inspired by atesquik's controls lib for PTP
+
 function kcon_save () 
 {
 	self.data = {}
